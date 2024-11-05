@@ -17,7 +17,7 @@
 - Looking for ways to contribute to projects.
 - Working on improving code and documentation.
 
-## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=evg1nn0eth&show_icons=true&theme=radical)
 
 
 ## Связь со мной
