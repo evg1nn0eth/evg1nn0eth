@@ -17,11 +17,12 @@
 - Looking for ways to contribute to projects.
 - Working on improving code and documentation.
 
+## GitHub stats
 ## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=evg1nn0eth&show_icons=true&theme=radical)
 
 
-## Связь со мной
-- 📫 Электронная почта: [ваш.email@example.com](mailto:ваш.email@example.com)
+<!---## **Connect with Me**
+! 📫 Электронная почта: [ваш.email@example.com](mailto:ваш.email@example.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ваш-профиль) | [Twitter](https://twitter.com/ваш-профиль) 
 
 <!---
