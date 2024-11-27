@@ -1,4 +1,4 @@
-# **Hello! I'm evg1nn** 🦔
+# **Hello! I'm evg1nn** 
 
 
 ## GitHub stats
