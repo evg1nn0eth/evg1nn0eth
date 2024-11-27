@@ -1,23 +1,8 @@
-
-
 # **Hello! I'm evg1nn** 🦔
 
 
-## Abaut me👨‍🎓
-
-1. **I am a beginner developer**.
- - Passionate about the world of blockchain technologies.
-
-2. **I strive to learn and master**:
-- The principles of working with open source code.
-- Code optimization.
-
-3. **I enjoy participating in various projects on GitHub**.
-- Looking for ways to contribute to projects.
-- Working on improving code and documentation.
-
 ## GitHub stats
-## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=evg1nn0eth&show_icons=true&theme=radical)
+## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=evg1nn0eth&show_icons=true&theme=shades-of-purple)
 
 
 <!---## **Connect with Me**
