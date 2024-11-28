@@ -1,4 +1,4 @@
-# **Hello! I'm Evg1nn** 
+# **Hello! I'm evg1nn** 
 
 `I am a passionate developer with experience in blockchain technology, contributions to open-source projects, and code optimization. I enjoy participating in interesting projects on GitHub and finding new ways to improve code and documentation.`
 ## GitHub stats
